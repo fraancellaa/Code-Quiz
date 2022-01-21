@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: Gotham Rounded;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
