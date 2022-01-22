@@ -133,7 +133,7 @@ function saveHighscore() {
     window.localStorage.setItem("highscores", JSON.stringify(highscores));
 
     // other page displaying
-    window.location.href = "score.html";
+    window.location.href = "scores.html";
   }
 }
 
