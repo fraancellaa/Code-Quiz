@@ -9,6 +9,7 @@
 
 </head>
 <body>
+    <!--Upper link for Highscores and timer-->
     <div class="scores"><a href="scores.html">Click to see Highscores</a></div>
 
     <div class="timer">Time: <span id="time">0</span></div>
@@ -24,12 +25,16 @@
         </div>
     </div>
 
-    <div id="question-container" class="hide">
+    <!--Questions will be in questions.js-->
+
+    <div id="questions" class="hide">
         <h2 id="question-title"></h2>
         <div id="choices" class="choices"></div>
     </div>
 
-    <div id="end-display" class="hide">
+    <!--Final Score-->
+
+    <div id="end-screen" class="hide">
         <h2>Finished!</h2>
         <p>Your final score is <span id="final-score"></span></p>
         <p>
@@ -41,7 +46,7 @@
     <div id="feedback" class="feedback hide"></div>
 </div>
 
-    <script src="assets/js/script.js"></script>
     <script src="assets/js/questions.js"></script>
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
