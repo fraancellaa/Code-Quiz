@@ -10,6 +10,7 @@ Code quiz is an app to help you become familiar with these kind of tests and jus
 1. UM CANVAS - Module 4
 2. Peer Review
 3. Google
-4. Teacher Assistants:
+4. Teacher Assistants - Jocelyn Remington, Tim Sherry, Jordan Masone, Cristian Custodio.
+
 
 # Links
